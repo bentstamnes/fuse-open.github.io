@@ -1,0 +1,24 @@
+- id: samsung
+  name: Samsung
+- id: envested
+  name: Envested
+- id: adobe
+  name: Adobe
+- id: idean
+  name: Idean
+- id: capgemini
+  name: Cap Gemini
+- id: accenture
+  name: Accenture
+- id: volvo
+  name: Volvo
+- id: lg
+  name: LG
+- id: ubs
+  name: UBS
+- id: vodafone
+  name: Vodafone
+- id: focus-vision
+  name: Focus Vision
+- id: cisco
+  name: cisco
