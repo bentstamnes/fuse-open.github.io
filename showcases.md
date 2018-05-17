@@ -10,10 +10,10 @@ made with Fuse. Want to be featured?
 
 <div class="showcases">
 <ul>
-{% for showcase in site.data.showcases %}
+{% for showcase in site.showcases %}
 <li>
   <h2><a href="{{ showcase.id }}">{{ showcase.title }}</a></h2>
-  <a href="{{ showcase.id }}"><img src="{{ site.baseurl }}/assets/images/showcases/{{ showcase.id }}.png" alt="{{ showcase.title }}" /></a>
+  <a href="{{ showcase.id }}"><img src="{{ site.baseurl }}/assets/images/{{ showcase.id }}.png" alt="{{ showcase.title }}" /></a>
   <p>{{ showcase.synopsis }}</p>
   <p><a href="{{ showcase.id }}">Read more</a></p>
 </li>

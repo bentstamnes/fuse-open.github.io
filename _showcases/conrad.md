@@ -5,6 +5,7 @@ permalink: /showcases/conrad
 screenshots: /assets/images/showcases/conrad-detailed.png
 ios_url: https://itunes.apple.com/us/app/conrad-wise/id1090322679?ls=1&mt=8
 android_url: https://play.google.com/store/apps/details?id=com.ConradWise
+synopsis: A chat bot that knows everything
 ---
 Conrad Wise is really smart. He knows a lot about over 5 million topics,
 speaks several languages and has terabytes of images. Wouldn't it be cool
